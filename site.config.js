@@ -51,7 +51,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "seongminlab/K-BioX-log",
       "issue-term": "og:title",
