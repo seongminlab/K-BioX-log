@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "K-BioX log",
+    name: "K-BioX",
     image: "/kbiox_logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "K-BioX PhD Students",
     bio: "Mix and Match",
