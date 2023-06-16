@@ -48,7 +48,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: "seongminlab/K-BioX-log",
       "issue-term": "og:title",
@@ -56,7 +56,7 @@ const CONFIG = {
     },
   },
   cusdis: {
-    enable: true,
+    enable: false,
     config: {
       host: "https://cusdis.com",
       appid: "73b10a3f-c2b2-478b-a7fc-096fc4164153", // Embed Code -> data-app-id value
